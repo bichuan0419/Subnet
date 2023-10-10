@@ -41,7 +41,7 @@ for j = 1:length(CID)
     q_temp = qhat(j);
     cur_CID = CID(j);
     term1 = -(4/(q_temp - phat)^2 + 4/3/(q_temp - phat))^(-1);
-    T_vec(j) = exp(term1 * cur_CID^2);
+    T_vec(j) = exp(term1 * cur_CID^2)*2*length(Wp);
 
 end
 
