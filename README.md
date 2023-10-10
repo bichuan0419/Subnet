@@ -4,7 +4,8 @@ This include a user-friendly GUI to import data such as -logp adjacency matrix, 
 1. Install the MATLAB package using Subnet/Subnet.mlappinstall
 2. Install the standalone windows executive file using app1/for_redistribution/MyAppInstaller_web.exe (MATLAB Runtime required to install)
 3. Directly open app.mlapp in MATLAB
-![screenshot_GUI](https://github.com/bichuan0419/Subnet/assets/43563121/352b2fd1-6519-4893-830e-c088ea33e9c4)
+![Capture](https://github.com/bichuan0419/Subnet/assets/43563121/c431c788-3951-4ace-853f-ef5aa419fe7c)
+
 
 References:
 
